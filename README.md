@@ -1,2 +1,34 @@
-# MovieFlix
-A React-based movie browsing app using TMDB API with search, modal details, and responsive UI.
+# 🎬 MovieFlix – React Movie Browsing App
+
+MovieFlix is a responsive movie browsing web application built using React and TMDB API.  
+Users can explore trending movies, search for their favorite movies, and view detailed information in a clean and modern UI.
+
+---
+
+## 🚀 Features
+
+- 🔥 Trending & Popular Movies
+- 🔍 Search Movies by Name
+- 🎥 Movie Details Modal (Overview, Rating, Release Date)
+- 📱 Fully Responsive Design
+- ⚡ Fast performance with Vite
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- React-Bootstrap
+- Axios
+- TMDB API
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/om-03-005/MovieFlix.git
+cd MovieFlix
+npm install
+npm run dev    
