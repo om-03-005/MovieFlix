@@ -31,4 +31,8 @@ Users can explore trending movies, search for their favorite movies, and view de
 git clone https://github.com/om-03-005/MovieFlix.git
 cd MovieFlix
 npm install
-npm run dev    
+npm run dev
+
+👨‍💻 Author
+Om Narayan Darade  
+GitHub: https://github.com/om-03-005
