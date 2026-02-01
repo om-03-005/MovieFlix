@@ -28,7 +28,6 @@ Users can explore trending movies, search for their favorite movies, and view de
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/om-03-005/MovieFlix.git
 cd MovieFlix
 npm install
 npm run dev
