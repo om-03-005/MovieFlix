@@ -34,4 +34,4 @@ npm run dev
 
 👨‍💻 Author
 Om Narayan Darade  
-GitHub: https://github.com/om-03-005
+GitHub: https://github.com/om-darade03
